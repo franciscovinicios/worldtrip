@@ -1,13 +1,7 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155858013-887dd01c-2d96-44ac-b8f6-c5d10afeb89f.svg">
+   <img  src="https://user-images.githubusercontent.com/78514869/155860664-7d78ebc5-0eb0-4f2b-a4d0-5a25ada0b270.svg">
 </div>
 
-
-
-
-<h3 align="center">  
-  Space Traveling is a blog connected to Prismic CMS,
-</h3>
 
 <h4 align="center"> 
 	 Status: Finished
@@ -39,19 +33,25 @@ This will be an application where you have two main goals. The first is to devel
 The following tools were used in the construction of the project:
 
 -   **React**
--   **React Icons**
 -   **TypeScript**
 -   **NextJs**
--   **Prismic CMS**
--   **Sass**
+-   **Chakra UI**
+-   **Swiper**
+-   **Unsplash**
 
 ## Layout
 
 * **Home**
 <br/>
 
-![blog](https://user-images.githubusercontent.com/78514869/155858006-572d2498-66e0-47e0-8a34-47fb791b0ca3.png)
+![home](https://user-images.githubusercontent.com/78514869/155860662-00f01015-9741-442b-a7e8-042723399903.png)
 
+<br/>
+
+* **Continent**
+<br/>
+
+![continent](https://user-images.githubusercontent.com/78514869/155860659-717ce738-bd49-4908-b3e6-c356c8512499.png)
 
 
 ## Getting Started
